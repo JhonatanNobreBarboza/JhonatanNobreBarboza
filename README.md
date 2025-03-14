@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![snake gif](https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=JhonatanNobreBarboza&theme=react)](https://github.com.br/JhonatanNobreBarboza/JhonatanNobreBarboza)
