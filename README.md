@@ -8,6 +8,14 @@
 #### 💻 E-mail gerencia.jhonatan@gmail.com
 #### 💻 Portfólio: [Jhonatan Nobre](https://consultoria-tech.vercel.app)
 
+</br>
+<div align="center">
+  <a href="https://github.com/JhonatanNobreBarboza">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JhonatanNobreBarboza&show_icons=true&theme=react"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanNobreBarboza&layout=compact&theme=react"/>
+  </a>
+</div>
+</br>
 ![Snake animation](https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=JhonatanNobreBarboza&theme=react)](https://github.com.br/JhonatanNobreBarboza/JhonatanNobreBarboza)
