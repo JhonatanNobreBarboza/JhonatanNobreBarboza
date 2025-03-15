@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Jhonatan+Nobre!;" />
 </h1>
 
-#### 💻Sou desenvolvedor Front-end
+#### 💻Sou Analista e Desenvolvedor de Sistemas
 #### 📚 Formado em Análise e Desenvolvimento de Sistemas pelo IFMS (Instituto Federal de Mato Grosso do Sul)
 #### 🖍 Estudando novas tecnologias
 #### 💻 E-mail gerencia.jhonatan@gmail.com
