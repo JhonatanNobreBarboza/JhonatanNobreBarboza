@@ -22,7 +22,7 @@
 
   <div class="badge-container">
     <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
-      <img class="badge" width="100" heigt=60 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react" alt="minhas-series">
+      <img class="badge" width="800" heigt=600 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react" alt="minhas-series">
     </a>
     <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
       <img class="badge" width="100" heigt=60 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react" alt="marvel-comics-app">
