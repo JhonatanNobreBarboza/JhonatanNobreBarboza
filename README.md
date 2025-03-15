@@ -5,8 +5,8 @@
 #### 💻Sou Analista e Desenvolvedor de Sistemas
 #### 📚 Formado em Análise e Desenvolvimento de Sistemas pelo IFMS (Instituto Federal de Mato Grosso do Sul)
 #### 🖍 Estudando novas tecnologias
-#### 💻 E-mail gerencia.jhonatan@gmail.com
-#### 💻 Portfólio: [Jhonatan Nobre](https://consultoria-tech.vercel.app)
+#### 💻 E-mail: [gerencia.jhonatan@gmail.com](mailto:gerencia.jhonatan@gmail.com)
+#### 💻 Portfólio: <a href="https://consultoria-tech.vercel.app" target="_blank">Jhonatan Nobre</a>
 
 </br>
 <div align="center">
