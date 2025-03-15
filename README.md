@@ -19,31 +19,15 @@
 
 ![Snake animation](https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake-dark.svg)
 
-<style>
-    .badge-container {
-      display: flex; /* Alinha os badges horizontalmente */
-      justify-content: space-around; /* Espaçamento uniforme */
-      max-width: 100%; /* Limita à largura da página */
-    }
-    .badge {
-      width: 30%; /* Cada badge ocupa 30% da largura total */
-      height: auto; /* Mantém proporção */
-      transition: transform 0.3s ease; /* Animação suave */
-    }
-    .badge:hover {
-      transform: scale(1.05); /* Zoom ao passar o mouse */
-    }
-  </style>
-</head>
-<body>
+
   <div class="badge-container">
     <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
-      <img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react" alt="minhas-series">
+      <img class="badge" width="100" heigt=60 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react" alt="minhas-series">
     </a>
     <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
-      <img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react" alt="marvel-comics-app">
+      <img class="badge" width="100" heigt=60 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react" alt="marvel-comics-app">
     </a>
     <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base">
-      <img class="badge" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=react" alt="alura-quiz-jhonatan-base">
+      <img class="badge" width="100" heigt=60 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=react" alt="alura-quiz-jhonatan-base">
     </a>
   </div>
