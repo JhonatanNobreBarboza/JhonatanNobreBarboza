@@ -38,13 +38,4 @@
     </a>
   </div>
       </br>
-  <div class="badge-container">
-    <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app" target="_blank">
-      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=pokedex&theme=react" alt="marvel-comics-app">
-    </a>
-    <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base" target="_blank">
-      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=01-contador-Voltas&theme=react" alt="alura-quiz-jhonatan-base">
-    </a>
-  </div>
-
 <div
