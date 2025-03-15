@@ -19,4 +19,9 @@
 
 ![Snake animation](https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=JhonatanNobreBarboza&theme=react)](https://github.com.br/JhonatanNobreBarboza/JhonatanNobreBarboza)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react)](https://github.com.br/JhonatanNobreBarboza/JhonatanNobreBarboza)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react)](https://github.com.br/JhonatanNobreBarboza/JhonatanNobreBarboza)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=react)](https://github.com.br/JhonatanNobreBarboza/JhonatanNobreBarboza)
+
