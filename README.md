@@ -21,25 +21,30 @@
 
 
   <div class="badge-container">
-    <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
-      <img class="badge" width="300" heigt=150 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react" alt="minhas-series">
+    <a href="https://github.com/JhonatanNobreBarboza/minhas-series" target="_blank">
+      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react" alt="minhas-series">
     </a>
-    <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
-      <img class="badge" width="350" heigt=200 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react" alt="marvel-comics-app">
-    </a>
-    <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base">
-      <img class="badge" width="350" heigt=200 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=react" alt="alura-quiz-jhonatan-base">
+    <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app" target="_blank">
+      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react" alt="marvel-comics-app">
     </a>
   </div>
   </br>
    <div class="badge-container">
-    <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
-      <img class="badge" width="300" heigt=150 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=react" alt="minhas-series">
+    <a href="https://github.com/JhonatanNobreBarboza/minhas-series" target="_blank">
+      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=react" alt="minhas-series">
     </a>
-    <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
-      <img class="badge" width="350" heigt=200 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=pokedex&theme=react" alt="marvel-comics-app">
-    </a>
-    <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base">
-      <img class="badge" width="350" heigt=200 src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=01-contador-Voltas&theme=react" alt="alura-quiz-jhonatan-base">
+    <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base" target="_blank">
+      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=react" alt="alura-quiz-jhonatan-base">
     </a>
   </div>
+      </br>
+  <div class="badge-container">
+    <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app" target="_blank">
+      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=pokedex&theme=react" alt="marvel-comics-app">
+    </a>
+    <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base" target="_blank">
+      <img class="badge" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=01-contador-Voltas&theme=react" alt="alura-quiz-jhonatan-base">
+    </a>
+  </div>
+
+<div
