@@ -17,7 +17,7 @@
 </div>
 </br>
 
-![Snake animation](https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake.svg)
 
 
   <div class="badge-container">
