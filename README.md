@@ -19,5 +19,4 @@
 
 ![Snake animation](https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react)](https://github.com/JhonatanNobreBarboza/minhas-series) [![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react)](https://github.com/JhonatanNobreBarboza/marvel-comics-app) [![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=react)](https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base)
-
+[![minhas-series](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=react)](https://github.com/JhonatanNobreBarboza/minhas-series) [![marvel-comics-app](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=react)](https://github.com/JhonatanNobreBarboza/marvel-comics-app) [![alura-quiz-jhonatan-base](https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=react)](https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base)
