@@ -32,7 +32,7 @@
 ☁️ Focado em **Cloud Computing**, **SaaS** e **Infraestrutura moderna**  
 🚀 Desenvolvendo aplicações completas com **Vue.js**, **Node.js** e deploy em nuvem  
 🧠 Evoluindo continuamente em arquitetura, performance e boas práticas  
-📌 Objetivo: criar sistemas profissionais, escaláveis e que gerem valor real
+📌 Objetivo: criar sistemas profissionais, escaláveis e que gerem valor real  
 
 ---
 
@@ -75,11 +75,37 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JhonatanNobreBarboza&show_icons=true&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=JhonatanNobreBarboza&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=JhonatanNobreBarboza&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=JhonatanNobreBarboza&show_icons=true&theme=default&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JhonatanNobreBarboza&layout=compact&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JhonatanNobreBarboza&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JhonatanNobreBarboza&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JhonatanNobreBarboza&layout=compact&theme=default&hide_border=true"
+      alt="Top Langs"
+    />
+  </picture>
 </p>
 
 ---
@@ -87,7 +113,20 @@
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonatanNobreBarboza&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=JhonatanNobreBarboza&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=JhonatanNobreBarboza&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=JhonatanNobreBarboza&theme=default&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
 ---
@@ -96,21 +135,21 @@
 
 <p align="center">
   <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true"/>
   </a>
 
   <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JhonatanNobreBarboza/SpringBoot-Api-rest-Vagalume">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=tokyonight&hide_border=true"/>
   </a>
 
   <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=tokyonight&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
@@ -121,14 +160,27 @@
 ✅ Construção de aplicações SaaS completas  
 ✅ Cloud Deploy e Infraestrutura escalável  
 ✅ Performance, arquitetura e segurança  
-✅ Projetos com Vue.js, Node.js e bancos de dados
+✅ Projetos com Vue.js, Node.js e bancos de dados  
 
 ---
 
 ## 🐍 Snake Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/JhonatanNobreBarboza/JhonatanNobreBarboza/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/JhonatanNobreBarboza/JhonatanNobreBarboza/output/github-contribution-grid-snake-dark.svg" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/JhonatanNobreBarboza/JhonatanNobreBarboza/output/github-contribution-grid-snake.svg" 
+    />
+    <img 
+      alt="snake animation" 
+      src="https://raw.githubusercontent.com/JhonatanNobreBarboza/JhonatanNobreBarboza/output/github-contribution-grid-snake.svg" 
+    />
+  </picture>
 </p>
 
 ---
