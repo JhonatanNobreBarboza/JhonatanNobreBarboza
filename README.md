@@ -75,11 +75,11 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JhonatanNobreBarboza&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JhonatanNobreBarboza&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanNobreBarboza&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JhonatanNobreBarboza&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JhonatanNobreBarboza&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhonatanNobreBarboza&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -96,21 +96,21 @@
 
 <p align="center">
   <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=tokyonight&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JhonatanNobreBarboza/SpringBoot-Api-rest-Vagalume">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=tokyonight&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=tokyonight&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
