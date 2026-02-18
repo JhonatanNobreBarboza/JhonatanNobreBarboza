@@ -135,21 +135,77 @@
 
 <p align="center">
   <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true"/>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=default&hide_border=true" 
+      />
+      <img 
+        width="400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=default&hide_border=true"
+        alt="minhas-series"
+      />
+    </picture>
   </a>
 
   <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=tokyonight&hide_border=true"/>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=tokyonight&hide_border=true" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=default&hide_border=true" 
+      />
+      <img 
+        width="400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=default&hide_border=true"
+        alt="marvel-comics-app"
+      />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/JhonatanNobreBarboza/SpringBoot-Api-rest-Vagalume">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=tokyonight&hide_border=true"/>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=tokyonight&hide_border=true" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=default&hide_border=true" 
+      />
+      <img 
+        width="400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=default&hide_border=true"
+        alt="SpringBoot-Api-rest-Vagalume"
+      />
+    </picture>
   </a>
 
   <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base">
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=tokyonight&hide_border=true"/>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=tokyonight&hide_border=true" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=default&hide_border=true" 
+      />
+      <img 
+        width="400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=default&hide_border=true"
+        alt="alura-quiz-jhonatan-base"
+      />
+    </picture>
   </a>
 </p>
 
