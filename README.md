@@ -285,26 +285,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/JhonatanNobreBarboza/quero-locar">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=tokyonight&hide_border=true"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=default&hide_border=true"
-      />
-      <img
-        width="400"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=default&hide_border=true"
-        alt="quero-locar"
-      />
-    </picture>
-  </a>
-
   <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
     <picture>
       <source
