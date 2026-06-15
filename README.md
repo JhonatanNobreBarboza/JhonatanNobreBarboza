@@ -134,106 +134,38 @@
 ## 🏆 Projetos em Destaque
 
 <p align="center">
-  <a href="https://www.nobreytech.com.br" target="_blank">
-    <img 
-      width="400"
-      src="https://img.shields.io/badge/Nobre%20Tech-Startup%20de%20Tecnologia%20B2B-0f172a?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Nobre Tech"
-    />
-  </a>
-
-  <a href="https://querolocar.com.br" target="_blank">
-    <img 
-      width="400"
-      src="https://img.shields.io/badge/Quero%20Locar-Sistema%20para%20Locadoras-16a34a?style=for-the-badge&logo=googlemaps&logoColor=white"
-      alt="Quero Locar"
-    />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/JhonatanNobreBarboza/quero-locar">
     <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=tokyonight&hide_border=true" 
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=tokyonight&hide_border=true"
       />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=default&hide_border=true" 
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=default&hide_border=true"
       />
-    <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
+      <img
+        width="400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=quero-locar&theme=default&hide_border=true"
+        alt="quero-locar"
+      />
+    </picture>
+  </a>
+
+  <a href="https://github.com/JhonatanNobreBarboza/minhas-series">
     <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true" 
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=tokyonight&hide_border=true"
       />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=default&hide_border=true" 
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=default&hide_border=true"
       />
-      <img 
+      <img
         width="400"
         src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=minhas-series&theme=default&hide_border=true"
         alt="minhas-series"
-      />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JhonatanNobreBarboza/marvel-comics-app">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=tokyonight&hide_border=true" 
-      />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=default&hide_border=true" 
-      />
-      <img 
-        width="400"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=marvel-comics-app&theme=default&hide_border=true"
-        alt="marvel-comics-app"
-      />
-    </picture>
-  </a>
-
-  <a href="https://github.com/JhonatanNobreBarboza/SpringBoot-Api-rest-Vagalume">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=tokyonight&hide_border=true" 
-      />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=default&hide_border=true" 
-      />
-      <img 
-        width="400"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=SpringBoot-Api-rest-Vagalume&theme=default&hide_border=true"
-        alt="SpringBoot-Api-rest-Vagalume"
-      />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base">
-    <picture>
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=tokyonight&hide_border=true" 
-      />
-      <source 
-        media="(prefers-color-scheme: light)" 
-        srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=default&hide_border=true" 
-      />
-      <img 
-        width="400"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JhonatanNobreBarboza&repo=alura-quiz-jhonatan-base&theme=default&hide_border=true"
-        alt="alura-quiz-jhonatan-base"
       />
     </picture>
   </a>
