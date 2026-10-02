@@ -28,6 +28,7 @@
 
 ## 👨‍💻 Sobre Mim
 
+🎓 Cursando **Licenciatura em Computação** pela **UEMS** 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pelo **IFMS**  
 ☁️ Focado em **Cloud Computing**, **SaaS** e **Infraestrutura moderna**  
 🚀 Desenvolvendo aplicações completas com **Vue.js**, **Node.js** e deploy em nuvem  
