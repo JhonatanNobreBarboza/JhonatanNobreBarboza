@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252" role="img" aria-labelledby="title desc">
+  <title id="title">Jhonatan Nobre — Desenvolvedor Full Stack</title>
+  <desc id="desc">Banner profissional em azul-marinho com detalhes em turquesa.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#142b44"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#a6c9ef" stroke-opacity=".065"/>
+    </pattern>
+    <clipPath id="clip"><rect width="960" height="252" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="960" height="252" fill="url(#bg)"/>
+    <rect width="960" height="252" fill="url(#grid)"/>
+    <circle cx="850" cy="125" r="146" fill="none" stroke="#60a5fa" stroke-opacity=".12"/>
+    <circle cx="850" cy="125" r="113" fill="none" stroke="#2dd4bf" stroke-opacity=".18"/>
+    <circle cx="850" cy="125" r="80" fill="#10243a" stroke="#60a5fa" stroke-opacity=".55"/>
+    <path d="m827 105-21 20 21 20m46-40 21 20-21 20m-13-49-20 58" fill="none" stroke="#5eead4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="737" cy="125" r="4" fill="#2dd4bf"/>
+    <circle cx="850" cy="12" r="4" fill="#60a5fa"/>
+    <rect x="42" y="44" width="4" height="165" rx="2" fill="url(#accent)"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="66" y="65" fill="#5eead4" font-size="15" font-weight="700" letter-spacing="3">SOFTWARE DEVELOPMENT</text>
+      <text x="63" y="123" fill="#f8fafc" font-size="52" font-weight="700">Jhonatan Nobre</text>
+      <text x="66" y="159" fill="#cbd5e1" font-size="21">Full Stack  ·  SaaS  ·  Cloud Computing</text>
+      <text x="66" y="200" fill="#9fb5cc" font-size="15">Arquitetura de software  /  Segurança  /  Desempenho</text>
+    </g>
+    <rect y="248" width="960" height="4" fill="url(#accent)"/>
+  </g>
+</svg>
