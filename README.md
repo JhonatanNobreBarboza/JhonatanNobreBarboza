@@ -68,6 +68,14 @@ Atuo no desenvolvimento de aplicações web e soluções digitais, com foco em a
       <a href="https://github.com/JhonatanNobreBarboza/pagina-de-tributo">Ver código</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/JhonatanNobreBarboza/Criptografias">Criptografias V2.0</a></h3>
+      <p>Laboratório educacional de criptografia clássica com cifras de César, Vigenère e transposição colunar. Projeto acadêmico modernizado, com identidade visual original preservada, servidor Express 5 e 18 testes automatizados aprovados.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Bootstrap</code> <code>Vercel</code></p>
+      <a href="https://criptografias.vercel.app/"><strong>Testar aplicação</strong></a> · <a href="https://github.com/JhonatanNobreBarboza/Criptografias">Ver código</a>
+    </td>
+  </tr>
 </table>
 
 ### Contribuições open source
