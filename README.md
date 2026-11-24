@@ -75,6 +75,18 @@ Atuo no desenvolvimento de aplicações web e soluções digitais, com foco em a
 
 ## 06 · Atividade no GitHub
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonatanNobreBarboza/JhonatanNobreBarboza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonatanNobreBarboza/JhonatanNobreBarboza/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="Animação de cobrinha percorrendo o calendário de contribuições do GitHub" src="https://raw.githubusercontent.com/JhonatanNobreBarboza/JhonatanNobreBarboza/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Calendário de contribuições animado · GitHub Actions</sub>
+</p>
+
 [Consultar histórico de contribuições](https://github.com/JhonatanNobreBarboza#contribution-activity)
 
 ## 07 · About me
