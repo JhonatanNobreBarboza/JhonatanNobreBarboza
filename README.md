@@ -51,14 +51,34 @@ Atuo no desenvolvimento de aplicações web e soluções digitais, com foco em a
 | Análise e Desenvolvimento de Sistemas | IFMS | Concluído |
 | Licenciatura em Computação | UEMS | Em andamento |
 
-## 04 · Projetos públicos
+## 04 · Projetos públicos e contribuições
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JhonatanNobreBarboza/aprendizado-visualg">VisuAlg no Bolso</a></h3>
+      <p>Tutorial interativo de lógica de programação, com desafios de algoritmos e verificação de exercícios.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/JhonatanNobreBarboza/aprendizado-visualg">Ver código</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JhonatanNobreBarboza/pagina-de-tributo">Tributo a Nikola Tesla</a></h3>
+      <p>Projeto educacional de front-end com apresentação biográfica, linha do tempo e navegação interna. Executável localmente pelo arquivo index.html.</p>
+      <p><code>HTML</code> <code>CSS</code></p>
+      <a href="https://github.com/JhonatanNobreBarboza/pagina-de-tributo">Ver código</a>
+    </td>
+  </tr>
+</table>
+
+### Contribuições open source
 
 <table width="100%">
   <tr>
     <td>
-      <h3><a href="https://github.com/JhonatanNobreBarboza/aprendizado-visualg">Aprendizado Visualg</a></h3>
-      <p>Repositório educacional dedicado à lógica de programação e ao desenvolvimento de algoritmos.</p>
-      <a href="https://github.com/JhonatanNobreBarboza/aprendizado-visualg"><img alt="Ver código" src="https://img.shields.io/badge/Ver_código-176B80?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
+      <h3><a href="https://github.com/O2sa/DevImpact">DevImpact</a> · Contribuidor</h3>
+      <p>Plataforma open source de comparação de métricas de desenvolvedores. Contribuição incorporada ao projeto original: correção da orientação da seta em interfaces RTL (direita para esquerda).</p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>Tailwind CSS</code></p>
+      <a href="https://github.com/O2sa/DevImpact/pull/258"><strong>Pull request #258 — merged</strong></a> · <a href="https://devimpact.osamamabkhot.dev/">Aplicação online</a>
     </td>
   </tr>
 </table>
